@@ -18,7 +18,7 @@ Problem statement is defined in the file "Bungee Coding Round.docx". Please refe
 
 - In order to save the output as a csv file pass `'--outputDirectory ../../output/answer-{1 or 2 or 3}'` to the terminal.
 ---
-For Example: To get output for Problem-1, open terminal at `/internship-test2/output/answer `
+**For Example:** To get output for Problem-1, open terminal at `/internship-test2/output/answer `
 
 and run:
 
