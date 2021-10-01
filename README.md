@@ -12,7 +12,7 @@ Problem statement is defined in the file "Bungee Coding Round.docx". Please refe
 > **for windows:** `python internship_problem{1 or 2 or 3}.py ../../input/question-{1 or 2 or 3}/main.csv`
 \
 \
-> **for linux:** `python3 internship_problem{1 or 2 or 3}.py ../../input/question-{1 or 2 or 3}/main.csv`
+> **for Mac or Linux:** `python3 internship_problem{1 or 2 or 3}.py ../../input/question-{1 or 2 or 3}/main.csv`
 
 - this will display the final answer for the problem
 
